@@ -1,4 +1,4 @@
-(def clojure-version "1.10.1")
+(def clojure-version "1.10.3")
 
 (defproject renovate-issue-10436 "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
